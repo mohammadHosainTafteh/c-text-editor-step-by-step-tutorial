@@ -8,3 +8,9 @@ this is my reference to create this project.
 look at [https://viewsourcecode.org/snaptoken/kilo/01.setup.html](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
 
 
+## step 2: 
+look at [https://viewsourcecode.org/snaptoken/kilo/01.setup.html](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
+
+## step 3: 
+look at [https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html](https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html)
+
